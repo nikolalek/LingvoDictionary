@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>icon.png</string>
+			<key>Service Name</key>
+			<string>Look Up in Lingvo Dictionary</string>
+			<key>Title</key>
+			<string>Lingvo</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>com.abbyy.lingvo</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>http://www.abbyy.com/dictionary_for_mac/</string>
+			<key>Name</key>
+			<string>ABBYY Lingvo Dictionary</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Email</key>
+			<string>nikolalek@me.com</string>
+			<key>Name</key>
+			<string>Aleksey Nikolaev</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<dict>
+		<key>en</key>
+		<string>Look up the text in ABBYY Lingvo Dictionary</string>
+		<key>ru</key>
+		<string>Посмотреть выделенный текст в ABBYY Лингво</string>
+	</dict>
+	<key>Extension Identifier</key>
+	<string>com.nikolalek.popclip.extension.lingvo-dictionary</string>
+	<key>Extension Name</key>
+	<dict>
+		<key>en</key>
+		<string>ABBYY Lingvo</string>
+		<key>ru</key>
+		<string>ABBYY Лингво</string>
+	</dict>
+</dict>
+</plist>
