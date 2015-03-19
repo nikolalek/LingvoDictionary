@@ -29,8 +29,8 @@
 	<key>Credits</key>
 	<array>
 		<dict>
-			<key>Email</key>
-			<string>nikolalek@me.com</string>
+			<key>Link</key>
+			<string>https://github.com/nikolalek</string>
 			<key>Name</key>
 			<string>Aleksey Nikolaev</string>
 		</dict>
