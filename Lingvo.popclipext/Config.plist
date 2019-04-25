@@ -8,9 +8,9 @@
 			<key>Image File</key>
 			<string>icon.png</string>
 			<key>Service Name</key>
-			<string>Look Up in Lingvo Dictionary</string>
+			<string>Look Up in Lingvo European</string>
 			<key>Title</key>
-			<string>ABBYY Lingvo</string>
+			<string>ABBYY Lingvo European</string>
 		</dict>
 	</array>
 	<key>Apps</key>
@@ -21,9 +21,9 @@
 			<key>Check Installed</key>
 			<true/>
 			<key>Link</key>
-			<string>http://www.abbyy.com/dictionary_for_mac/</string>
+			<string>http://www.abbyy.com</string>
 			<key>Name</key>
-			<string>ABBYY Lingvo Dictionary</string>
+			<string>ABBYY Lingvo European</string>
 		</dict>
 	</array>
 	<key>Credits</key>
@@ -38,7 +38,7 @@
 	<key>Extension Description</key>
 	<dict>
 		<key>en</key>
-		<string>Look up the text in ABBYY Lingvo Dictionary</string>
+		<string>Look up the text in ABBYY Lingvo European</string>
 		<key>ru</key>
 		<string>Посмотреть выделенный текст в ABBYY Лингво</string>
 	</dict>
